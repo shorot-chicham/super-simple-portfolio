@@ -184,3 +184,57 @@
 .sub-description{
     color: #757575;
 }
+
+/* summary container styles  */
+
+.summary-container{
+    margin-left: 8%;
+    margin-right: 8%;
+    margin-bottom: 4rem;
+}
+
+.summary-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    margin-bottom: 2rem;
+}
+
+.summary-title{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.education-title, .experience-title{
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.education-inst, .experience-inst{
+    margin-top: 1px;
+    padding-top: 0px;
+    color: #757575;
+}
+
+.education-description{
+    color: #757575;
+
+}
+
+hr{
+    border: 1px solid #ece7e7;
+}
+
+.download-btn{
+    background-color: #FD6E0A;
+    padding: 0.9rem;
+    border: none;
+    border-radius: 4px;
+    display: flex;
+    color: whitesmoke;
+    align-items: center;
+    justify-content: center;
+    gap: 0.4rem;
+    margin: auto;
+}
